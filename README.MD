@@ -11,20 +11,24 @@ File attributes setting is disabled under non-win98 systems.
 Installation procedure:
 
 Run Setup.exe inside the .zip to install to C:\WINUTIL\RENAMER (Renamer 245 Windows 7 + Windows 10 + Windows 11 installer / 1265 KB)
+
 or install to C:\PROGRAM FILES\RENAMER (Old Renamer 245 win98/nt/xp installer / 274 K)
+
 Extract the files from Install Renamer 245.exe with WinRAR for custom installation of the included system libraries.
+
    !! Windows 10 and 7 users: Keep Renamer out of the Program Files and Program Files (x86) directory to be able to save a FileList and Undo files..
    Default Renamer 2.4.5 Win11/10/7 installer / 1265 KB, default installation directory is C:\WINUTIL\RENAMER
+
 for saving filelists and undo files in the Renamer subdirectories/subfolders.
-For the win98/nt/xp installer, on non-administrative installation of win7/win10/win11 installer: You may need to install MSCOMCTL.OCX by running "REGSVR32.EXE (drive):\(path)\MSCOMCTL.OCX" - MS Common Control library
-on non-administrative installation on Win7/Win10/Win11: Windows 7 and Windows 10 and Windows 11 users need MSCOMCTL.OCX in their \Windows\SysWOW64\ directory and run REGSVR32.EXE \Windows\SysWOW64\MSCOMCTL.OCX
-Only by providing administrative priviledge, asked for, with the Renamer 2.4.5 Windows 11 & Windows 10 & Windows 7 setup / 1265 KB, installation of MSCOMCTL.OCX is included on Windows 10 & Windows 7 & Windows 11.
+
+Only by providing administrative priviledge, asked for, with the Renamer 2.4.5 Windows 11 & Windows 10 & Windows 7 setup / 1265 KB, installation of MSCOMCTL.OCX update is included on Windows 10 & Windows 7 & Windows 11 or can be downloaded,
+needed: MSCOMCTL.OCX runtime libraries from https://www.microsoft.com/en-us/download/details.aspx?id=7030 
+
+
 download Renamer installation
 win11/10/7 Renamer here (.zip with windows 7 / windows 10 / windows 11 setup) / 1265 KB,
-or win98/nt/xp Renamer here (windows 98/nt/xp installer) / 274 K
-
-
-
+http://eatme.pro/about-renamer
+mirror: https://ietmie.neocities.org/about-renamer
 
 To uninstall Renamer 2.4.5 by EatMe:
 remember to backup your Renamer\FileList\*.ERF file lists
