@@ -8,6 +8,9 @@ Latest minute notes:
 Renamer v2.4.5 is bugless and available - has a new (2024) setup.
 Renamer won 5 star awards on various freeware download sites!
 File attributes setting is disabled under non-win98 systems.
+
+
+
 Installation procedure:
 
 Run Setup.exe inside the .zip to install to C:\WINUTIL\RENAMER (Renamer 245 Windows 7 + Windows 10 + Windows 11 installer / 1265 KB)
@@ -21,6 +24,7 @@ Extract the files from Install Renamer 245.exe with WinRAR for custom installati
 
 for saving filelists and undo files in the Renamer subdirectories/subfolders.
 
+
 Only by providing administrative priviledge, asked for, with the Renamer 2.4.5 Windows 11 & Windows 10 & Windows 7 setup / 1265 KB, installation of MSCOMCTL.OCX update is included on Windows 10 & Windows 7 & Windows 11 or can be downloaded,
 needed: MSCOMCTL.OCX runtime libraries from https://www.microsoft.com/en-us/download/details.aspx?id=7030 
 
@@ -30,6 +34,7 @@ win11/10/7 Renamer here (.zip with windows 7 / windows 10 / windows 11 setup) / 
 http://eatme.pro/about-renamer
 mirror: https://ietmie.neocities.org/about-renamer
 
+
 To uninstall Renamer 2.4.5 by EatMe:
 remember to backup your Renamer\FileList\*.ERF file lists
 remember to backup your Renamer\Undo\*.ERU undo files
@@ -37,17 +42,24 @@ after backing up your file lists and undo files, run Setup in the Renamer direct
 Default Windows 11 / 10 / 7 installation directory: C:\WINUTIL\RENAMER (due to Windows 11 & 10 & 7 security on Renamer subdirectories/subfolders to save filelists and undo files)
 Default Windows 98/nt/xp installation directory: C:\PROGRAM FILES\RENAMER
 
+
 The Windows registry: HKEY_CURRENT_USER\Software\VB and VBA Program Settings\EazRENAMER\ contains some stored program data, no need to remove this small sized program data, also: it can be re-used after later re-installation.
+
+
 Renamer 2.4.5 is developed by EatMe [renamerinfo (@) eatme . pro] or [paashaas (@) outgun .com]
+
 
 Renamer is a program that can rename and move files,create directories from filename(s) and set file attributes.
 
+
 See the full specifications below for details.
+
 
 To create a list of files you can input path(s), file(s),search pattern(s) and / or an earlier created file list.
 Last 26 entered are saved, and default paths can be set for dialogs.
 
 For more info about creating a list of files, press the Help button on the file list creator / loader screen.
+
 
 You can save, make changes in and view the created list of files.
 
