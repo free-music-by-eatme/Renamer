@@ -1,2 +1,0 @@
-# Renamer
-Renamer by EatMe
